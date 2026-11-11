@@ -3,13 +3,13 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2026-11-12T00:02:21+08:00",
+  "updated": "2026-11-12T00:13:53+08:00",
   "id": "a2ui-recipe-codelab-cloudshell",
   "duration": 51,
   "title": "Codelab: Interactive Recipe Experiences with ADK and A2UI in Google Cloud Shell",
-  "authors": "ADK \u0026 A2UI Codelab Team",
+  "authors": "Shang Yi",
   "summary": "Build and run an interactive AI culinary recipe assistant with Google ADK and A2UI v1.0 directly inside Google Cloud Shell.",
-  "source": "/var/folders/rh/cmbnxchn18j851735kgkcm_w0000gn/T/tmpbr40fe8d/a2ui-recipe-codelab-cloudshell.md",
+  "source": "/var/folders/rh/cmbnxchn18j851735kgkcm_w0000gn/T/tmpq2zah8vp/a2ui-recipe-codelab-cloudshell.md",
   "theme": "",
   "status": [
     "published"
